@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-china-news",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "China / Hong Kong / Taiwan news search.",
   "type": "module",
   "main": "src/index.ts",
@@ -24,5 +24,9 @@
   "devDependencies": {
     "typescript": "^5.9.3",
     "@cloudflare/workers-types": "^4.20260405.1"
+  },
+  "pipeworx": {
+    "sourceHash": "v1-2c1b001e032ac34215adc029c6ea15192fb6f96dc1229c9eb351ea1386762b86",
+    "sourceCommit": "60f04b68c347e970c6be94a53439d1364061fc06"
   }
 }
