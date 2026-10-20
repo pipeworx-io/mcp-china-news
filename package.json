@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-china-news",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "China / Hong Kong / Taiwan news search.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-b7b211a5fd5f39fe16e3e4304e5c6bd746630f97e51c5c94e50c532af58cc9f1",
-    "sourceCommit": "babdd280d475dceddecc9ebf8f2a661712781a81"
+    "sourceHash": "v1-2101ac65bcfafa316ae57cfbce049849506f158e8935b303eaf634478386be3d",
+    "sourceCommit": "b0a4b8e2f3f5b3a4c3f9f2c9a73f91b20d32ce11"
   }
 }
